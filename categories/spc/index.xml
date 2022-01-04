@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SPC on Colin Chen</title>
+    <link>https://hsc251.github.io/categories/spc/</link>
+    <description>Recent content in SPC on Colin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 04 Jan 2021 20:49:00 +0800</lastBuildDate><atom:link href="https://hsc251.github.io/categories/spc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SPC - Scattered Diagram</title>
+      <link>https://hsc251.github.io/blog/02-spcs1/</link>
+      <pubDate>Mon, 04 Jan 2021 20:49:00 +0800</pubDate>
+      
+      <guid>https://hsc251.github.io/blog/02-spcs1/</guid>
+      <description>Scattered diagram indicates correlation between independent variable (typically on the x-axis) and dependent variable (also known as a function of x, typically on the y-axis).</description>
+    </item>
+    
+  </channel>
+</rss>
