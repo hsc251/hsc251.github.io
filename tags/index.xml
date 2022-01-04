@@ -6,7 +6,61 @@
     <description>Recent content in Tags on Colin Chen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 04 Jan 2021 19:49:00 +0800</lastBuildDate><atom:link href="https://hsc251.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Jan 2021 20:49:00 +0800</lastBuildDate><atom:link href="https://hsc251.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Manufacturing</title>
+      <link>https://hsc251.github.io/tags/manufacturing/</link>
+      <pubDate>Mon, 04 Jan 2021 20:49:00 +0800</pubDate>
+      
+      <guid>https://hsc251.github.io/tags/manufacturing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QC</title>
+      <link>https://hsc251.github.io/tags/qc/</link>
+      <pubDate>Mon, 04 Jan 2021 20:49:00 +0800</pubDate>
+      
+      <guid>https://hsc251.github.io/tags/qc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quality</title>
+      <link>https://hsc251.github.io/tags/quality/</link>
+      <pubDate>Mon, 04 Jan 2021 20:49:00 +0800</pubDate>
+      
+      <guid>https://hsc251.github.io/tags/quality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SPC</title>
+      <link>https://hsc251.github.io/tags/spc/</link>
+      <pubDate>Mon, 04 Jan 2021 20:49:00 +0800</pubDate>
+      
+      <guid>https://hsc251.github.io/tags/spc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>https://hsc251.github.io/tags/statistics/</link>
+      <pubDate>Mon, 04 Jan 2021 20:49:00 +0800</pubDate>
+      
+      <guid>https://hsc251.github.io/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visualization</title>
+      <link>https://hsc251.github.io/tags/visualization/</link>
+      <pubDate>Mon, 04 Jan 2021 20:49:00 +0800</pubDate>
+      
+      <guid>https://hsc251.github.io/tags/visualization/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Jobs</title>
       <link>https://hsc251.github.io/tags/jobs/</link>
@@ -31,69 +85,6 @@
       <pubDate>Mon, 04 Jan 2021 19:49:00 +0800</pubDate>
       
       <guid>https://hsc251.github.io/tags/qa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>QC</title>
-      <link>https://hsc251.github.io/tags/qc/</link>
-      <pubDate>Mon, 04 Jan 2021 19:49:00 +0800</pubDate>
-      
-      <guid>https://hsc251.github.io/tags/qc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quality</title>
-      <link>https://hsc251.github.io/tags/quality/</link>
-      <pubDate>Mon, 04 Jan 2021 19:49:00 +0800</pubDate>
-      
-      <guid>https://hsc251.github.io/tags/quality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Game</title>
-      <link>https://hsc251.github.io/tags/game/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hsc251.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>New</title>
-      <link>https://hsc251.github.io/tags/new/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hsc251.github.io/tags/new/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photos</title>
-      <link>https://hsc251.github.io/tags/photos/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hsc251.github.io/tags/photos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://hsc251.github.io/tags/python/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hsc251.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>React</title>
-      <link>https://hsc251.github.io/tags/react/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://hsc251.github.io/tags/react/</guid>
       <description></description>
     </item>
     
