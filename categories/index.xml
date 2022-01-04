@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Colin Chen</title>
+    <link>https://hsc251.github.io/categories/</link>
+    <description>Recent content in Categories on Colin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 04 Jan 2021 19:49:00 +0800</lastBuildDate><atom:link href="https://hsc251.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QMS</title>
+      <link>https://hsc251.github.io/categories/qms/</link>
+      <pubDate>Mon, 04 Jan 2021 19:49:00 +0800</pubDate>
+      
+      <guid>https://hsc251.github.io/categories/qms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Android And Gaming</title>
+      <link>https://hsc251.github.io/categories/android-and-gaming/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://hsc251.github.io/categories/android-and-gaming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

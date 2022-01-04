@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organization on Colin Chen</title>
+    <link>https://hsc251.github.io/tags/organization/</link>
+    <description>Recent content in Organization on Colin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 04 Jan 2021 19:49:00 +0800</lastBuildDate><atom:link href="https://hsc251.github.io/tags/organization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>QA Organization Justification</title>
+      <link>https://hsc251.github.io/blog/01-qajd/</link>
+      <pubDate>Mon, 04 Jan 2021 19:49:00 +0800</pubDate>
+      
+      <guid>https://hsc251.github.io/blog/01-qajd/</guid>
+      <description>Quality Assurance (QA) is literally everywhere in the corporation environment, it ensures quality results for product, process and development.</description>
+    </item>
+    
+  </channel>
+</rss>

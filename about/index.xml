@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Me on Colin Chen</title>
+    <link>https://hsc251.github.io/about/</link>
+    <description>Recent content in About Me on Colin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 04 Jan 2022 18:44:00 +0800</lastBuildDate><atom:link href="https://hsc251.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
